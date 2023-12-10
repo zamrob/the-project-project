@@ -1,0 +1,21 @@
+
+
+body {
+    font-family: 'Press Start 2P', sans-serif;
+}
+
+
+.hands {
+    margin: -30px 0 0 10px;
+}
+
+.instructions {
+    color: white;
+    margin: -500px 0 0 50px;
+}
+
+.man {
+    z-index: 2;
+    height: 400px;
+    position:absolute;
+}
